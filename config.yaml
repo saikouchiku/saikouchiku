@@ -1,0 +1,4 @@
+baseURL: 'https://saikouchiku.github.io/saikouchiku'
+languageCode: 'ru'
+title: "再構築"
+theme: "minimal-bootstrap-hugo-theme"
